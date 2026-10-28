@@ -1,0 +1,21 @@
+message,expected,predicted,correct
+I cannot access my account after resetting my password.,ACCOUNT,ACCOUNT,True
+I forgot my password,ACCOUNT,ACCOUNT,True
+I'd like to delete my profile permanently,ACCOUNT,ACCOUNT,True
+My parcel still hasn't arrived and it's been two weeks,DELIVERY,DELIVERY,True
+What shipping methods do you offer to Canada?,DELIVERY,DELIVERY,True
+I want my money back for the broken headphones,REFUND,REFUND,True
+Has my refund been processed yet?,REFUND,REFUND,True
+How do I unsubscribe from your marketing emails?,SUBSCRIPTION,SUBSCRIPTION,True
+Please change the address on order 55821 to 12 Baker Street,SHIPPING,ORDER,False
+Set up a new delivery address for my profile,SHIPPING,SHIPPING,True
+Your app keeps failing when I try to pay with PayPal,PAYMENT,PAYMENT,True
+Which credit cards do you accept?,PAYMENT,PAYMENT,True
+Can I talk to a real person please,CONTACT,CONTACT,True
+How much does it cost to terminate my contract early?,CANCEL,CANCEL,True
+Where can I download the receipt for last month's purchase?,INVOICE,INVOICE,True
+I need to see my bill from March,INVOICE,INVOICE,True
+I want to buy two more of these jackets,ORDER,ORDER,True
+I'd like to stop my order before it ships,ORDER,ORDER,True
+Your service was terrible and I want to file a complaint,FEEDBACK,FEEDBACK,True
+Leave a review for the product I bought,FEEDBACK,FEEDBACK,True
