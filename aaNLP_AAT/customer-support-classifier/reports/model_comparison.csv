@@ -1,7 +1,0 @@
-model,classifier,preprocessing,cv_accuracy_mean,cv_macro_f1_mean,cv_macro_f1_std,train_accuracy,val_accuracy,val_macro_precision,val_macro_recall,val_macro_f1,val_weighted_f1,vocabulary_size,seconds
-Linear SVM | Baseline (lowercase only),linear_svm,basic,0.9988,0.9989,0.0007,0.9998,0.9989,0.9993,0.9985,0.9989,0.9989,4705,6.5
-Logistic Regression | Baseline (lowercase only),logistic_regression,basic,0.9982,0.9982,0.0004,0.9998,0.9984,0.9982,0.9982,0.9982,0.9984,4705,4.7
-Multinomial Naive Bayes | Baseline (lowercase only),naive_bayes,basic,0.9975,0.9976,0.0007,0.9985,0.9981,0.9978,0.998,0.9979,0.9981,4705,1.7
-Multinomial Naive Bayes | NLTK pipeline,naive_bayes,nltk,0.9972,0.9973,0.0003,0.9985,0.9975,0.9975,0.9976,0.9975,0.9975,3785,38.6
-Linear SVM | NLTK pipeline,linear_svm,nltk,0.9984,0.9985,0.0004,0.9998,0.9975,0.9975,0.9971,0.9973,0.9975,3785,60.9
-Logistic Regression | NLTK pipeline,logistic_regression,nltk,0.9982,0.9982,0.0002,0.9998,0.9973,0.9974,0.9965,0.9969,0.9973,3785,54.9
