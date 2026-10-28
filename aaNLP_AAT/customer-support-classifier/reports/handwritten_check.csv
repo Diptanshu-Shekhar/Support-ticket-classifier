@@ -1,0 +1,21 @@
+message,expected,Multinomial Naive Bayes | Baseline (lowercase only),Logistic Regression | Baseline (lowercase only),Linear SVM | Baseline (lowercase only),Multinomial Naive Bayes | NLTK pipeline,Logistic Regression | NLTK pipeline,Linear SVM | NLTK pipeline
+I cannot access my account after resetting my password.,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT
+I forgot my password,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT
+I'd like to delete my profile permanently,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT,ACCOUNT
+My parcel still hasn't arrived and it's been two weeks,DELIVERY,DELIVERY,ACCOUNT,DELIVERY,DELIVERY,DELIVERY,DELIVERY
+What shipping methods do you offer to Canada?,DELIVERY,DELIVERY,DELIVERY,DELIVERY,DELIVERY,DELIVERY,DELIVERY
+I want my money back for the broken headphones,REFUND,REFUND,REFUND,REFUND,REFUND,REFUND,REFUND
+Has my refund been processed yet?,REFUND,REFUND,REFUND,REFUND,REFUND,REFUND,REFUND
+How do I unsubscribe from your marketing emails?,SUBSCRIPTION,SUBSCRIPTION,SUBSCRIPTION,SUBSCRIPTION,SUBSCRIPTION,SUBSCRIPTION,SUBSCRIPTION
+Please change the address on order 55821 to 12 Baker Street,SHIPPING,SHIPPING,SHIPPING,SHIPPING,ORDER,ORDER,ORDER
+Set up a new delivery address for my profile,SHIPPING,SHIPPING,SHIPPING,SHIPPING,SHIPPING,SHIPPING,SHIPPING
+Your app keeps failing when I try to pay with PayPal,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT
+Which credit cards do you accept?,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT,PAYMENT
+Can I talk to a real person please,CONTACT,CONTACT,CONTACT,CONTACT,CONTACT,CONTACT,CONTACT
+How much does it cost to terminate my contract early?,CANCEL,CANCEL,CANCEL,CANCEL,CANCEL,CANCEL,CANCEL
+Where can I download the receipt for last month's purchase?,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE
+I need to see my bill from March,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE,INVOICE
+I want to buy two more of these jackets,ORDER,ORDER,ORDER,ORDER,ORDER,ORDER,ORDER
+I'd like to stop my order before it ships,ORDER,DELIVERY,ORDER,ORDER,DELIVERY,ORDER,ORDER
+Your service was terrible and I want to file a complaint,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK
+Leave a review for the product I bought,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK,FEEDBACK
