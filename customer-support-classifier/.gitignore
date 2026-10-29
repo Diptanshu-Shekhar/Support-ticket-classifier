@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Large / generated files (recreate with the commands in README.md)
+dataset/*.csv
+models/*.joblib
+models/*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
